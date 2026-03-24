@@ -1,8 +1,19 @@
 # PBL-AIML
 End-to-end machine learning system for disease risk prediction using synthetic clinical data. Includes data preprocessing, feature selection, and classification using Logistic Regression, KNN, and SVM, with performance evaluation through standard metrics.
 
-**Overview**
 
-This project presents an end-to-end machine learning pipeline to predict disease risk using synthetic clinical data. It demonstrates the complete workflow starting from raw data preprocessing to model training and evaluation using multiple classification algorithms.
+**Problem Statement**
+Design and develop an end-to-end machine learning classification system to predict
+disease risk using patient clinical data. The project should involve selecting a suitable
+clinical dataset and performing data preprocessing steps such as data cleaning,
+normalization, and transformation to ensure data quality and consistency. Relevant
+features must be identified using appropriate feature selection techniques to enhance
+model performance and interpretability. The system should include model selection and
+training using Logistic Regression, K-Nearest Neighbours (KNN), and Support Vector
+Machine (SVM) classifiers. The trained models should be evaluated using standard
+classification performance metrics such as accuracy, precision, recall, F1-score,
+confusion matrix, and ROC curve. The project should demonstrate a complete machine
+learning pipeline from raw data to evaluated predictive models, following best practices
+in machine learning system design.
 
-The system is designed to simulate real-world healthcare data challenges, including missing values, noise, and variability, making it suitable for practical machine learning applications.
+
