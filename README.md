@@ -2,7 +2,7 @@
 End-to-end machine learning system for disease risk prediction using synthetic clinical data. Includes data preprocessing, feature selection, and classification using Logistic Regression, KNN, and SVM, with performance evaluation through standard metrics.
 
 
-**Problem Statement**
+**Problem Statement-**
 Design and develop an end-to-end machine learning classification system to predict
 disease risk using patient clinical data. The project should involve selecting a suitable
 clinical dataset and performing data preprocessing steps such as data cleaning,
